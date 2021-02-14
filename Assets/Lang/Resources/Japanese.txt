@@ -1,0 +1,9 @@
+optionsTitle=設定
+languageText=言語
+volumeText=音量
+themeText=テーマ
+fontSizeText=字体型
+fontColorText=字体色
+fontSizeSmallText=小
+fontSizeMediumText=中
+fontSizeLargeText=長

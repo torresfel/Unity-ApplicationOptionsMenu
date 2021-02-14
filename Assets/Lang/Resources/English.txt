@@ -1,0 +1,9 @@
+optionsTitle=Options
+languageText=Language
+volumeText=Volume
+themeText=Theme
+fontSizeText=Font Size
+fontColorText=Font Color
+fontSizeSmallText=Small
+fontSizeMediumText=Medium
+fontSizeLargeText=Large
